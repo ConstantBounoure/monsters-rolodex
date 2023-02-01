@@ -63,7 +63,6 @@ const App = () => {
 //                     () => {
 //                         return { monsters: users };
 //                     },
-//                     () => console.log(this.state)
 //                 )
 //             );
 //     }
